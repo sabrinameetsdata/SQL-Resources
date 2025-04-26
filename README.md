@@ -13,3 +13,7 @@ Make sure to follow my Git and social profiles.
 </body>
 
 
+# Data Visualization Tools
+
+📊 Tableau Desktop Public (FREE) -> https://public.tableau.com/app/discover
+Tableau Hands-On Challanges -> https://trailhead.salesforce.com/users/strailhead/trailmixes/tableau-hands-on-challenges
